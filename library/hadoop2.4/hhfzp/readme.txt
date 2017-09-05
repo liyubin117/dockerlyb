@@ -1,0 +1,1 @@
+tar -zxvf hbase-1.2.1-bin.tar.gz && tar -zxvf pig-0.16.0.tar.gz && tar -zxvf zookeeper-3.4.6.tar.gz && tar -zxvf apache-flume-1.6.0-bin.tar.gz && mv apache-flume-1.6.0-bin flume-1.6.0 &&  rm -rf *.tar.gz
