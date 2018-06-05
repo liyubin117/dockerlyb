@@ -1,0 +1,1 @@
+tar -zxvf spark-1.6.0-bin-hadoop2.4.tgz && mv spark-1.6.0-bin-hadoop2.4 spark-1.6.0 &&  rm -rf apache-hive-2.1.0-bin.tar.gz
